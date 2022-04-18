@@ -9,99 +9,6 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/assets\/ArrowIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/ArrowIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/chonk.png" : {
-      "ft" : 32768,
-      "iS" : 1088557,
-      "oA" : 0,
-      "oAP" : "\/assets\/chonk.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/assets\/ClockIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/ClockIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/CompanyLogo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/CompanyLogo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/FacebookIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/FacebookIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/InstagramIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/InstagramIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/SearchIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/SearchIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/TwitterIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/TwitterIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/assets\/YoutubeIcon.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/assets\/YoutubeIcon.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -114,11 +21,91 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/chonk.png" : {
+    "\/deploy\/img\/Icons\/ArrowIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/ArrowIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/ClockIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/ClockIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/CompanyLogo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/CompanyLogo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/FacebookIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/FacebookIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/InstagramIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/InstagramIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/SearchIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/SearchIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/TwitterIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/TwitterIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/YoutubeIcon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/YoutubeIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Photos\/chonk.png" : {
       "ft" : 32768,
       "iS" : 1088557,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/chonk.png",
+      "oAP" : "\/deploy\/img\/Photos\/chonk.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -127,11 +114,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo1.png" : {
+    "\/deploy\/img\/Photos\/Photo1.png" : {
       "ft" : 32768,
       "iS" : 925084,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo1.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo1.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -140,11 +127,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo2.png" : {
+    "\/deploy\/img\/Photos\/Photo2.png" : {
       "ft" : 32768,
       "iS" : 25210,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo2.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo2.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -153,11 +140,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo3.png" : {
+    "\/deploy\/img\/Photos\/Photo3.png" : {
       "ft" : 32768,
       "iS" : 30634,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo3.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo3.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -166,11 +153,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo4.png" : {
+    "\/deploy\/img\/Photos\/Photo4.png" : {
       "ft" : 32768,
       "iS" : 705985,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo4.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo4.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -179,11 +166,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo5.png" : {
+    "\/deploy\/img\/Photos\/Photo5.png" : {
       "ft" : 32768,
       "iS" : 453764,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo5.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo5.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -192,11 +179,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo6.png" : {
+    "\/deploy\/img\/Photos\/Photo6.png" : {
       "ft" : 32768,
       "iS" : 90948,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo6.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo6.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -205,11 +192,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo7.png" : {
+    "\/deploy\/img\/Photos\/Photo7.png" : {
       "ft" : 32768,
       "iS" : 109913,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo7.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo7.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -218,11 +205,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo8.png" : {
+    "\/deploy\/img\/Photos\/Photo8.png" : {
       "ft" : 32768,
       "iS" : 104939,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo8.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo8.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -231,11 +218,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo9.png" : {
+    "\/deploy\/img\/Photos\/Photo9.png" : {
       "ft" : 32768,
       "iS" : 99179,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo9.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo9.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -244,11 +231,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photo10.png" : {
+    "\/deploy\/img\/Photos\/Photo10.png" : {
       "ft" : 32768,
       "iS" : 104876,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photo10.png",
+      "oAP" : "\/deploy\/img\/Photos\/Photo10.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
