@@ -357,6 +357,11 @@ template {
   grid-template-columns: 16px auto 16px;
   grid-template-areas: ". content .";
 }
+@media (min-width: 1200px) {
+  .container {
+    grid-template-columns: auto 1140px auto;
+  }
+}
 .container .content {
   grid-area: content;
 }
@@ -391,9 +396,10 @@ textarea {
 /* =============
     Header
 ============= */
-header .content {
-  display: grid;
-  grid-template-columns: 50% 50%;
+header {
+  background-color: #DD968C;
+  text-align: center;
+  padding: 10px;
 }
 
 /* =============
@@ -412,4 +418,148 @@ footer .content h3 {
 }
 footer .content p {
   grid-area: josh;
+}
+
+/* =============
+    Banner
+============= */
+.banner {
+  display: grid;
+}
+.banner .content .Banner-1 {
+  background-color: #DD968C;
+}
+.banner .content .Banner-2 {
+  background-color: #E4C1BB;
+}
+
+/* =============
+    card
+============= */
+.Whats-New img {
+  width: 100%;
+}
+
+.card {
+  display: grid;
+  gap: 16px;
+  grid-template-rows: auto;
+  margin-bottom: 10px;
+}
+.card button {
+  background-color: #4A5C75;
+  border: none;
+  margin: 15px;
+  width: 98px;
+  height: 27px;
+  text-align: center;
+  color: white;
+}
+.card .Card-1 {
+  background-color: #E4C1BB;
+}
+.card .Card-2 {
+  background-color: #E4C1BB;
+}
+.card .Card-3 {
+  background-color: #E4C1BB;
+}
+.card .Card-4 {
+  background-color: #E4C1BB;
+}
+.card .Card-5 {
+  background-color: #E4C1BB;
+}
+
+/* =============
+    Divider
+============= */
+.divider .content {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 16px;
+}
+@media (min-width: 768px) {
+  .divider .content {
+    grid-template-columns: 100%;
+  }
+}
+.divider .content .subcontent {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-areas: none;
+}
+
+/* =============
+    Explore
+============= */
+.explore {
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+}
+.explore .content {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  grid-template-areas: "img content";
+  margin: 10px;
+}
+.explore .content h3 {
+  color: white;
+}
+.explore .content button {
+  background-color: #4A5C75;
+  border: none;
+  margin: 15px;
+  height: 98px;
+  width: 27px;
+  text-align: center;
+  color: white;
+}
+.explore .content .Explore-1 {
+  background-color: #DD968C;
+}
+.explore .content .Explore-2 {
+  background-color: #DD968C;
+}
+
+/* =============
+    Grid
+============= */
+.grid img {
+  width: 100%;
+}
+
+/* =============
+    Hero
+============= */
+.hero img {
+  width: 100%;
+}
+
+/* =============
+    Search
+============= */
+.search {
+  background-color: #C5D9C4;
+  text-align: center;
+}
+.search .content form {
+  display: flex;
+  padding: 10px;
+}
+.search .content form input {
+  width: 100%;
+  color: white;
+  border: none;
+  border-bottom: 1px solid #4A5C75;
+  background-color: transparent;
+}
+.search .content form ::placeholder {
+  color: white;
+}
+.search .content form button {
+  background-color: #4A5C75;
+  border: none;
+  border-radius: 3.5px;
 }

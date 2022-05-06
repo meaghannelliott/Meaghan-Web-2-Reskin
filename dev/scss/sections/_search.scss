@@ -1,0 +1,33 @@
+/* =============
+    Search
+============= */
+
+.search{
+    background-color: $mint4;
+    text-align: center;
+    .content{
+        form{
+            display: flex;
+            padding: 10px;
+                input{
+                width: 100%;
+                color: white;
+
+                border: none;
+                border-bottom: 1px solid $navy3;
+                background-color: transparent;
+                }
+            ::placeholder{
+                color: white;
+            }
+
+            button{
+                background-color: $navy3;
+                border: none;
+                border-radius: 3.5px;
+
+            }
+
+            }
+        }
+    }

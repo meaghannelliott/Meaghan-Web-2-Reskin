@@ -9,6 +9,10 @@
     grid-template-areas: 
     ". content ."
     ;
+
+    @include xl{
+        grid-template-columns: auto 1140px auto;
+    }
     .content{
 
         grid-area: content;

@@ -1,0 +1,36 @@
+/* =============
+    Explore
+============= */
+
+.explore{
+    margin-top: 10px;
+    display: grid;
+    gap: 10px;
+//definitely wrong check out
+    .content{
+        display:grid;
+        grid-template-columns: 3fr 1fr;
+        grid-template-areas: "img content";
+        margin: 10px;
+
+        h3{
+            color: white;
+        }
+        button{
+            background-color: $navy3;
+            border:none;
+            margin: 15px;
+            height: 98px;
+            width: 27px;
+            text-align: center;
+            color: white;
+        }
+        .Explore-1{
+            background-color: $peach4;
+        }
+        .Explore-2{
+            background-color: $peach4;
+        }
+
+    }
+}

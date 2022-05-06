@@ -1,0 +1,40 @@
+/* =============
+    card
+============= */
+
+.Whats-New{
+    img{
+        width: 100%;
+    }
+}
+    .card{
+        display: grid;
+        gap: 16px;
+        grid-template-rows: auto;
+        margin-bottom: 10px;
+
+        button{
+            background-color: $navy3;
+            border: none;
+            margin: 15px;
+            width: 98px;
+            height: 27px;
+            text-align: center;
+            color: white;
+        }
+        .Card-1{
+            background-color: $peach2;
+        }
+        .Card-2{
+            background-color: $peach2;
+        }
+        .Card-3{
+            background-color: $peach2;
+        }
+        .Card-4{
+            background-color: $peach2;
+        }
+        .Card-5{
+            background-color: $peach2;
+        }
+    }
