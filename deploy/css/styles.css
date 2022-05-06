@@ -426,6 +426,9 @@ footer .content p {
 .banner {
   display: grid;
 }
+.banner .content {
+  display: grid;
+}
 .banner .content .Banner-1 {
   background-color: #DD968C;
 }

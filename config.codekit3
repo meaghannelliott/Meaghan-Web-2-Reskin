@@ -71,6 +71,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/deploy\/img\/Icons\/NavyArrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/NavyArrow.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/deploy\/img\/Icons\/SearchIcon.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -86,6 +96,16 @@
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/deploy\/img\/Icons\/TwitterIcon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/Icons\/WhiteArrow.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Icons\/WhiteArrow.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -127,31 +147,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/Photos\/Photo2.png" : {
-      "ft" : 32768,
-      "iS" : 25210,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photos\/Photo2.png",
+    "\/deploy\/img\/Photos\/Photo2.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Photos\/Photo2.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
-    "\/deploy\/img\/Photos\/Photo3.png" : {
-      "ft" : 32768,
-      "iS" : 30634,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/Photos\/Photo3.png",
+    "\/deploy\/img\/Photos\/Photo3.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Photos\/Photo3.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/img\/Photos\/Photo4.png" : {
       "ft" : 32768,
