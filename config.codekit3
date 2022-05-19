@@ -416,17 +416,20 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/layout\/_footer.css" : {
-      "aP" : 1,
+    "\/dev\/scss\/layout\/_body.scss" : {
+      "aP" : 0,
       "bl" : 0,
-      "ci" : 0,
       "co" : 0,
-      "ft" : 16,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_footer-min.css",
+      "oAP" : "\/dev\/scss\/layout\/_body.css",
       "oF" : 0,
-      "pg" : 0
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
     },
     "\/dev\/scss\/layout\/_footer.scss" : {
       "aP" : 0,
@@ -442,18 +445,6 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
-    },
-    "\/dev\/scss\/layout\/_header.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/layout\/_header-min.css",
-      "oF" : 0,
-      "pg" : 0
     },
     "\/dev\/scss\/layout\/_header.scss" : {
       "aP" : 0,
