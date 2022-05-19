@@ -428,16 +428,18 @@ footer .content p {
     Banner
 ============= */
 .banner {
-  display: grid;
+  background-color: #DD968C;
+  text-align: left;
 }
 .banner .content {
-  display: grid;
+  display: flex;
+  padding: 0px;
 }
 .banner .content .Banner-1 {
-  background-color: #DD968C;
+  color: white;
 }
 .banner .content .Banner-2 {
-  background-color: #E4C1BB;
+  color: #4A5C75;
 }
 
 /* =============

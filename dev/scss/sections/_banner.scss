@@ -3,18 +3,21 @@
 ============= */
 
 .banner{
-    display:grid;
+    background-color: $peach4;
+
+    text-align: left;
 
     .content{
-        display: grid;
+        display: flex;
+        padding: 0px;
         
 
 
     .Banner-1{
-        background-color: $peach4;
+        color: white;
     }
     .Banner-2{
-        background-color: $peach2;
+        color: $navy3;
     }
 }
 }
